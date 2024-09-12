@@ -1,1 +1,99 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tejaswini D - M.Tech CSE Student</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f9;
+            color: #333;
+        }
+        header {
+            background-color: #4CAF50;
+            color: white;
+            text-align: center;
+            padding: 1em 0;
+        }
+        section {
+            padding: 20px;
+            margin: 10px auto;
+            max-width: 800px;
+            background-color: white;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        }
+        h1, h2 {
+            color: #4CAF50;
+        }
+        ul {
+            list-style-type: none;
+            padding: 0;
+        }
+        ul li {
+            margin-bottom: 10px;
+        }
+        .social-icons a {
+            text-decoration: none;
+            margin-right: 15px;
+            font-size: 1.5em;
+        }
+    </style>
+</head>
+<body>
 
+<header>
+    <h1>Tejaswini D</h1>
+    <p>M.Tech CSE Student | Aspiring Intern</p>
+</header>
+
+<section>
+    <h2>👩‍💻 About Me</h2>
+    <p>Hello! I am Tejaswini D, an M.Tech student specializing in Computer Science and Engineering. I am passionate about technology and looking for internship opportunities to apply my skills and learn in a real-world environment.</p>
+</section>
+
+<section>
+    <h2>🎓 Education</h2>
+    <ul>
+        <li><strong>M.Tech in Computer Science & Engineering</strong> - [Your University Name] (20XX - Present)</li>
+        <li><strong>B.Tech in Computer Science & Engineering</strong> - [Your University Name] (20XX - 20XX)</li>
+    </ul>
+</section>
+
+<section>
+    <h2>🛠️ Skills</h2>
+    <ul>
+        <li>Programming Languages: Python, Java, C++</li>
+        <li>Web Development: HTML, CSS, JavaScript</li>
+        <li>Database Management: SQL, MongoDB</li>
+        <li>Machine Learning, Data Science</li>
+        <li>Tools: Git, Docker, Kubernetes</li>
+    </ul>
+</section>
+
+<section>
+    <h2>📂 Projects</h2>
+    <ul>
+        <li><strong>Brain Diagnostics System</strong> - A project to diagnose brain issues using CT scans, MRI scans, and X-rays.</li>
+        <li><strong>Portfolio Website</strong> - A personal portfolio to showcase my skills and projects.</li>
+    </ul>
+</section>
+
+<section>
+    <h2>📧 Contact Info</h2>
+    <ul>
+        <li>Email: <a href="mailto:your-email@example.com">your-email@example.com</a></li>
+        <li>Phone: +91-XXXXXXXXXX</li>
+    </ul>
+</section>
+
+<section class="social-icons">
+    <h2>🔗 Social Media</h2>
+    <a href="https://www.linkedin.com/in/your-profile" target="_blank">💼 LinkedIn</a>
+    <a href="https://github.com/your-username" target="_blank">🐙 GitHub</a>
+</section>
+
+</body>
+</html>
